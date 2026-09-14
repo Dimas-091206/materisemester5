@@ -1,0 +1,1 @@
+int attr expoStatusBarHidden 0x0
